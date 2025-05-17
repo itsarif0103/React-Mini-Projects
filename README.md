@@ -1,0 +1,5 @@
+![EV app](https://github.com/user-attachments/assets/07feffa8-75fb-4e2c-9868-a63a38e92648)
+![tic tac toe](https://github.com/user-attachments/assets/7c529a74-4edc-4ec4-8cae-f74f6d94739d)
+![Sign up](https://github.com/user-attachments/assets/8a5f6677-b011-4fb9-bd71-e5e84e70c719)
+![News app](https://github.com/user-attachments/assets/b448266a-b493-424e-8432-89e7061c929d)
+![login ](https://github.com/user-attachments/assets/18cb8062-5bd1-49e8-9260-8d241cf396c8)
